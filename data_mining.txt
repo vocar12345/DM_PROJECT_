@@ -15,3 +15,13 @@ loading data set, install csv to table
 https://youtu.be/Wqmtf9SA_kk
 
 https://youtu.be/h1sAzPojKMg
+
+How sales vary across different times of the year- what model, what company, dealer region
+
+which models are likely to be in demand in the future
+which regions may require more inventory
+prefference by gender and income
+popular models
+sale trends in regions
+preferred color
+preferred body style
