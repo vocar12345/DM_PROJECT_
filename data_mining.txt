@@ -10,7 +10,8 @@ to run py desktop/test.py
 https://youtu.be/9o4gDQvVkLU 5:00 
 
 development timeline: setup vs extensions,anaconda, git, IN CMD INSTALL NUMPY, pandas, matplotlib, seaborn, scikit-learn,
-loading data set, install csv to table
+loading data set, install csv to table, data preparation, data analysis, install scikit-learn
+added libraries added market analysis
 
 https://youtu.be/Wqmtf9SA_kk
 
@@ -25,3 +26,6 @@ popular models
 sale trends in regions
 preferred color
 preferred body style
+
+ Linear Regression, Decision Trees, ARIMA, Random Forest, K-means Clustering,
+Association Rule Learning.
