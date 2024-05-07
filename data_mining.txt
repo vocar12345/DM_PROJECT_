@@ -29,3 +29,10 @@ preferred body style
 
  Linear Regression, Decision Trees, ARIMA, Random Forest, K-means Clustering,
 Association Rule Learning.
+
+-cap random forest at some number and clean up the code
+-make arima work and visualize the final forecast
+I have K MEAN CLUSTERING left
+-trends across the year for model and company (sales)
+forecast sales
+-visualize some data
